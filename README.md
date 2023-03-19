@@ -8,6 +8,16 @@ This repository contains Python code to scrape trending topics and search for tw
 - A Twitter Developer Account with API access
 - Tweepy library installed
 
+## Create a Twitter Developer Account: 
+To use the Twitter API to scrape trending topics, you'll first need to create a developer account, 
+obtain the necessary API keys, and install the Tweepy library to interact with the API in Python. 
+- Go to https://developer.twitter.com/ and sign in with your Twitter account.
+- Apply for a developer account by following the prompts and filling out the required information.
+- Once your account is approved, go to the "Projects & Apps" section and create a new project.
+- Create a new app inside the project and take note of the API key, API key secret, access token, and access token secret. You'll need these credentials to interact with the API.
+
+
+
 ## Installation
 
 1. Clone the repository:
