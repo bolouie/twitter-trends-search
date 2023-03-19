@@ -21,7 +21,7 @@ obtain the necessary API keys, and install the Tweepy library to interact with t
 ## Installation
 
 1. Clone the repository:
-`git close http://github.com/bolouie/twitter-trends-search.git`
+`git clone https://github.com/bolouie/twitter-trends-search.git`
 
 
 2. Install the Tweepy library:
